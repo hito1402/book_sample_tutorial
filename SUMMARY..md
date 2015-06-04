@@ -2,5 +2,5 @@
 
 * Top
    * [page1](1.md)
-   * page2
+   * [page2](2.md)
 
